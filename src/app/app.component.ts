@@ -32,7 +32,7 @@ export class AppComponent {
     this.allItems.unshift({
       description,
       done: false
-    })
+    });
   }
 
 }
